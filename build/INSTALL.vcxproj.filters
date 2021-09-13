@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\FourierRandomGeneratorWindows\build\CMakeFiles\a6860916f17c47370ff4091b1646cc22\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7C4F4273-D34B-3D0C-B520-7D91E4894833}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
